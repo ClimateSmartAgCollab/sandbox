@@ -21,7 +21,9 @@ Markdown also lets you use a bulleted list.
      - Sub-sub item 1
      - Sub-sub item 2
 3. Second level
-   - Sub item again
+   - Sub item 3.1
+   - Sub item 3.2
+4. Third level
 
 ---
 
@@ -34,6 +36,7 @@ Markdown also lets you use a bulleted list.
 |Dan|Elephant|
 |Jane|Filly|
 |Jerome|Grouse|
+|Vali|Vakhshoori|
 ---
 
 
@@ -74,7 +77,8 @@ print(greet("Agri-food Data Canada"))
 - [x] Finish homework  
 - [ ] Buy groceries  
 - [ ] Practice Markdown  
-- [x] Drink coffee  
+- [x] Drink coffee
+- [ ] Vacation Time
 
 ---
 ## Subheadings
