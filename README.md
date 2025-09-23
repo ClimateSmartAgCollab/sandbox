@@ -37,7 +37,7 @@ Markdown also lets you use a bulleted list.
 |Dan|Elephant|
 |Jane|Filly|
 |Jerome|Grouse|
-|Vali|Vakhshoori|
+|Vali|Lion|
 ---
 
 
