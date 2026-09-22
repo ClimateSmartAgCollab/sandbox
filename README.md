@@ -21,7 +21,7 @@ This Standard Operating Procedure (SOP) describes the standardized process for p
 
 ## 2. Scope
 
-This procedure applies to all personnel responsible for preparing PB&J sandwiches in home, educational, or commercial kitchen environments.
+This procedure applies to all personnel responsible for preparing PB&JB sandwiches in home, educational, or commercial kitchen environments.
 
 ---
 
@@ -31,7 +31,7 @@ The following ingredients are required for one sandwich:
 
 - 2 slices of bread
 - 2 tablespoons peanut butter
-- 1 tablespoon jelly or jam
+- 1 cup of jellybeans
 - Optional:
   - Honey
   - Banana slices
@@ -43,7 +43,7 @@ The following ingredients are required for one sandwich:
 
 - Butter knife or spreader
 - Cutting board or plate
-- Measuring spoons (optional)
+- Measuring cup (optional)
 - Serving plate
 - Napkin
 
@@ -77,14 +77,14 @@ The following ingredients are required for one sandwich:
 
 ### Step 3: Apply Jellybeans
 
-1. Open the jelly container.
-2. Measure approximately 1 tablespoon of jelly.
+1. Open the jellybean container.
+2. Measure approximately 1 cup of jellybeans.
 3. Spread evenly across the second slice of bread.
 
 ### Step 4: Assemble the Sandwich
 
 1. Align both slices of bread.
-2. Press the peanut butter side and jelly side together.
+2. Press the peanut butter side and jellybean side together.
 3. Apply gentle pressure to secure the sandwich.
 
 ### Step 5: Serve
@@ -111,9 +111,9 @@ Before serving, confirm that:
 
 ### Problem: Jellybeans leak out of the sandwich
 
-**Possible Cause:** Excessive jelly applied.
+**Possible Cause:** Excessive jellybeans applied.
 
-**Solution:** Reduce the amount of jelly and spread more evenly.
+**Solution:** Eat the excess amount of jellybeans.
 
 ### Problem: Bread tears during spreading
 
