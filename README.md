@@ -29,7 +29,7 @@ This procedure applies to all personnel responsible for preparing PB&J sandwiche
 
 The following ingredients are required for one sandwich:
 
-- 2 slices of bread
+- 2 slices of bread, specify type
 - 2 tablespoons peanut butter
 - 1 tablespoon jelly or jam
 - Optional:
@@ -87,6 +87,8 @@ The following ingredients are required for one sandwich:
 1. Align both slices of bread.
 2. Press the peanut butter side and jelly side together.
 3. Apply gentle pressure to secure the sandwich.
+
+Optional: Distribute fruit slices or honey on one slice of bread before pressing slices together.
 
 ### Step 5: Serve
 
