@@ -56,8 +56,9 @@ The following ingredients are required for one sandwich:
 ### Hygiene Requirements
 
 1. Wash hands thoroughly before handling food.
-2. Ensure all preparation surfaces are clean.
-3. Use clean utensils during preparation.
+2. Wear gloves (optional).
+3. Ensure all preparation surfaces are clean.
+4. Use clean utensils during preparation.
 
 ---
 
