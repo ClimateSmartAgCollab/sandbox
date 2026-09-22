@@ -1,4 +1,4 @@
-# Our Peanut Butter and Jelly Sandwich SOP
+# Our Peanut Butter and Jellybean Sandwich SOP
 
 **Document Type:** Standard Operating Procedure (SOP)  
 **Department:** Kitchen Operations  
@@ -15,7 +15,7 @@
 
 ## 1. Purpose
 
-This Standard Operating Procedure (SOP) describes the standardized process for preparing a Peanut Butter and Jelly (PB&J) sandwich. Following this procedure ensures consistent quality, food safety, and customer satisfaction.
+This Standard Operating Procedure (SOP) describes the standardized process for preparing a Peanut Butter and Jellybean (PB&JB) sandwich. Following this procedure ensures consistent quality, food safety, and customer satisfaction.
 
 ---
 
@@ -75,7 +75,7 @@ The following ingredients are required for one sandwich:
 2. Measure approximately 2 tablespoons of peanut butter.
 3. Spread evenly across one slice of bread.
 
-### Step 3: Apply Jelly
+### Step 3: Apply Jellybeans
 
 1. Open the jelly container.
 2. Measure approximately 1 tablespoon of jelly.
@@ -100,7 +100,7 @@ The following ingredients are required for one sandwich:
 Before serving, confirm that:
 
 - [ ] Peanut butter is spread evenly
-- [ ] Jelly is spread evenly
+- [ ] Jellybeans are spread evenly
 - [ ] Bread is not torn
 - [ ] Sandwich is fully assembled
 - [ ] Work area remains clean
@@ -109,7 +109,7 @@ Before serving, confirm that:
 
 ## 8. Troubleshooting
 
-### Problem: Jelly leaks out of the sandwich
+### Problem: Jellybeans leak out of the sandwich
 
 **Possible Cause:** Excessive jelly applied.
 
@@ -140,6 +140,7 @@ No records are required for routine home preparation. Commercial environments ma
 |----------|------------|---------|
 | 1.0 | 2026-09-02 | Initial document creation |
 | 1.1 | 2026-10-01 | Added quality checklist and troubleshooting guidance |
+| 1.2 | 2026-09-22 | Improved the sandwich content to peanut butter and jellybean (PB&JB) |
 
 ---
 
@@ -152,7 +153,7 @@ Prepare Workspace
         ↓
 Spread Peanut Butter
         ↓
-Spread Jelly
+Spread Jellybeans
         ↓
 Assemble Sandwich
         ↓
