@@ -36,7 +36,7 @@ The following ingredients are required for one sandwich:
   - Honey
   - Banana slices
   - Strawberry slices
-
+  - Salt and pepesr
 ---
 
 ## 4. Materials Required
