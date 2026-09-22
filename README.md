@@ -128,7 +128,7 @@ Before serving, confirm that:
 No records are required for routine home preparation. Commercial environments may log:
 
 - Date prepared
-- Preparer name
+- Preparer's name
 - Batch quantity
 - Quality inspection results
 
